@@ -1,4 +1,4 @@
-package sampleexceptionpackage;
+package exceptionpackagesample;
 
 public class ClassExceptionSample {
 
