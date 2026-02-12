@@ -18,7 +18,6 @@ public class NullPointerExceptionPgm {
 		
 		NullPointerExceptionPgm ob=new NullPointerExceptionPgm();
 		//System.out.println(name.length());
-		
 		ob.display();
 	}
 
