@@ -1,6 +1,6 @@
 package inheritance;
 
-public class MultiInheritanceParent2 extends MultiInheritanceParent1 {
+public class MultiILevelnheritanceParent extends MultiLevelInheritanceGrandParent {
 
 	
 	String b="Parent2";

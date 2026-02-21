@@ -1,6 +1,6 @@
 package inheritance;
 
-public class SuperParent {
+public class SuperKeywordParent {
 
 	
 	String p ="Parent";
@@ -13,7 +13,7 @@ public class SuperParent {
 	
 	}
 	
-	public SuperParent() 
+	public SuperKeywordParent() 
 	{
 		
 		System.out.println("InsideParentClass Constructor");

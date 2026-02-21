@@ -1,6 +1,6 @@
 package inheritance;
 
-public class SuperChild extends SuperParent
+public class SupeKeywordrChild extends SuperKeywordParent
 {
 
 	//String c ="Child";
@@ -14,7 +14,7 @@ public class SuperChild extends SuperParent
 	  
 	
 	}
-	public SuperChild() {
+	public SupeKeywordrChild() {
 		
 		super();
 		System.out.println("Chlid Class Constuctor");
@@ -24,7 +24,7 @@ public class SuperChild extends SuperParent
 	public static void main(String[] args) 
 	
 	{
-		SuperChild ob =new SuperChild();
+		SupeKeywordrChild ob =new SupeKeywordrChild();
 		ob.displayChild();
 		System.out.println(ob.p);//will get child class var value as both paretntchild var are same
 		

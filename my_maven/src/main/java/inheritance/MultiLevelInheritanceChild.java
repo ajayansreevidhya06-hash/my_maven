@@ -1,6 +1,6 @@
 package inheritance;
 
-public class MultiInheritanceChild extends MultiInheritanceParent2{
+public class MultiLevelInheritanceChild extends MultiILevelnheritanceParent{
 
 	String c="ChildClass";
 	public void print() {
@@ -12,7 +12,7 @@ public class MultiInheritanceChild extends MultiInheritanceParent2{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		MultiInheritanceChild ob = new MultiInheritanceChild();
+		MultiLevelInheritanceChild ob = new MultiLevelInheritanceChild();
 		ob.print();
 		System.out.println(ob.c);
 		System.out.println("Inside Parent1");
